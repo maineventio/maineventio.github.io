@@ -30,8 +30,14 @@ A plug-in architecture allows you to create and share standard tracking and anal
 Releasing a mobile game?  Install a stock analytics package that documents what events to instrument, and includes pre-build reports for funnels, retention, and other key information that you shouldn't have to build-out from scratch.
 We're building a library of off-the-shelf report packages to get you running fast, with minimal effort.
 
+## Status
+* Event-tracking API is complete
+* Event-reporting dashboard is in MVP
+* Scalable analytics crunching is in progress with two devs
+
+## Design & Architecture
+See [Decisions](doc/decisions.md)
+
 ## More....
 Email jmagnuss at gmail to learn more or get involved.
-
-## Design
 
