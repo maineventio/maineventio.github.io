@@ -1,4 +1,4 @@
-#MainEvent 
+# MainEvent 
 
 MainEvent is user analytics like MixPanel, but open-source, deployable to your private network, and beats them on price-at-scale, privacy, and the ability to own, access, and remix or reuse your data.
 
