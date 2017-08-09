@@ -12,7 +12,7 @@ so MainEvent solves that.  Generate events on any scale, attach any attributes t
 in a clean easy dashboard.
 
 # Check this out:
-For more on the problems witht he current analytics landscape, check this out: Medium: What We're Missing In Product Analytics](https://hackernoon.com/what-were-missing-in-product-analytics-928984c2e36a)
+For more on the problems witht he current analytics landscape, check this out: [Medium: What We're Missing In Product Analytics](https://hackernoon.com/what-were-missing-in-product-analytics-928984c2e36a)
 
 ## Open Source
 It’s important that this product have an open-source component.  The core hate point is that teams are re-inventing the wheel every month, and there should be an off-the-shelf option that companies can standardize on as they scale, without wasting developer bandwidth on inventing the basics.  User analytics should be available to tech teams like web servers are - grab the standard, use it, and get as complicated and custom as your use demands as you grow, without ruinous cost.
@@ -33,10 +33,10 @@ We're building a library of off-the-shelf report packages to get you running fas
 ## Status
 * Event-tracking API is complete
 * Event-reporting dashboard is in MVP
-* Scalable analytics crunching is in progress with two devs
+* Scalable analytics crunching is in progress with two devs.
 
 ## Design & Architecture
-See [Decisions](doc/decisions.md)
+See [Decisions](decisions.md) for our thinking on architecture, as we go.  
 
 ## More....
 Email jmagnuss at gmail to learn more or get involved.
